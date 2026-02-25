@@ -74,6 +74,3 @@ The pipeline supports both full and incremental source patterns for selected ent
 - Add CI checks for notebook and PySpark code quality.
 - Add dbt models for semantic/business-layer transformations.
 
----
-
-If you'd like, I can also add a **`databricks.yml` bundle scaffold** and **CI workflow** so this project is deployment-ready.
